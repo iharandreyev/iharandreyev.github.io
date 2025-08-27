@@ -1,0 +1,25 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "web",
+      "site": "https://iharandreyev.github.io"
+    }
+  },
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.scnsoft.app.with.associated.domain",
+      "sha256_cert_fingerprints" : [
+        "Replace with fingerprint from `Google Play Store > All Apps > Select the app in question > Setup > App integrity > App Signing > Digital Asset Links JSON`"
+      ]
+    }
+  }
+]
