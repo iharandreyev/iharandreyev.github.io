@@ -1,2 +1,2 @@
 # iharandreyev.github.io
-Domain association for an arbitrary iOS app
+Domain association for an arbitrary mobile app
