@@ -3,7 +3,7 @@
 	    "apps": [],
 	    "details": [
 	      {
-	        "appID": "KJL36X44M34.com.scnsoft.app.with.associated.domain",
+	        "appID": "JL36X44M34.com.scnsoft.app.with.associated.domain",
 	        "paths": [
 	          "/"
 	        ]
@@ -11,6 +11,6 @@
 	    ]
 	  },
     "webcredentials": {
-        "apps": [ "KJL36X44M34.com.scnsoft.app.with.associated.domain" ] 
+        "apps": [ "JL36X44M34.com.scnsoft.app.with.associated.domain" ] 
     }
 }
