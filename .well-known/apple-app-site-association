@@ -3,14 +3,14 @@
 	    "apps": [],
 	    "details": [
 	      {
-	        "appID": "JL36X44M34.com.scnsoft.app.with.associated.domain",
+	        "appID": "JL36X44M34.com.scnsoft.appwithassociateddomain",
 	        "paths": [
-	          "/"
+	          "/somelink"
 	        ]
 	      }
 	    ]
 	  },
     "webcredentials": {
-        "apps": [ "JL36X44M34.com.scnsoft.app.with.associated.domain" ] 
+        "apps": [ "JL36X44M34.com.scnsoft.appwithassociateddomain" ] 
     }
 }
