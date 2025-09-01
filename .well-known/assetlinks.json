@@ -16,7 +16,7 @@
     ],
     "target" : {
       "namespace" : "android_app",
-      "package_name" : "com.scnsoft.app.with.associated.domain",
+      "package_name" : "com.scnsoft.appwithassociateddomain",
       "sha256_cert_fingerprints" : [
         "Replace with fingerprint from `Google Play Store > All Apps > Select the app in question > Setup > App integrity > App Signing > Digital Asset Links JSON`"
       ]
