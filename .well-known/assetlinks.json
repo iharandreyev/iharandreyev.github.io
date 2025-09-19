@@ -5,7 +5,7 @@
       "delegate_permission/common.get_login_creds"
     ],
     "target" : {
-      "namespace" : "com.sciencesoft.passkey_test",
+      "namespace" : "android_app",
       "package_name" : "com.sciencesoft.passkey_test",
       "sha256_cert_fingerprints" : [
         "F9:1D:41:89:7D:BD:36:39:63:EF:F2:E2:41:C9:47:34:29:B2:21:DB:32:F9:56:AB:27:33:34:75:CE:56:37:85"
